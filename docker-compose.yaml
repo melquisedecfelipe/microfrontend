@@ -1,0 +1,17 @@
+version: '3'
+services:
+  app:
+    ports:
+      - '8080:80'
+    depends_on:
+      - react-app
+      - vue-app
+    build: .
+  react-app:
+    build:
+      context: .
+      dockerfile: react-app/Dockerfile
+  vue-app:
+    build:
+      context: .
+      dockerfile: vue-app/Dockerfile

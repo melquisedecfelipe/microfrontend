@@ -41,7 +41,7 @@ To clone and run this application, [Docker v18.09](https://www.docker.com/) or h
 $ git clone https://github.com/melquisedecfelipe/micro-frontend
 
 # Go into the repository and run command
-$ docker-compose up
+$ cd micro-frontend && docker-compose up
 
 # Go to
 $ http://localhost:8080

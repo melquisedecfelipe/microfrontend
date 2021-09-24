@@ -1,21 +1,21 @@
 <h1>Micro Frontend</h1>
 
 <p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/micro-frontend.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/microfrontend.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/micro-frontend.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/microfrontend.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/micro-frontend.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/microfrontend.svg">
   
   <a href="https://github.com/melquisedecfelipe/micro-frontend/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/micro-frontend.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/microfrontend.svg">
   </a>
 
   <a href="https://github.com/melquisedecfelipe/micro-frontend/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/micro-frontend.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/microfrontend.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/micro-frontend.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/microfrontend.svg">
 </p>
 
 <p>
@@ -49,7 +49,7 @@ $ http://localhost:8080
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/micro-frontend/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/microfrontend/blob/master/LICENSE) for more information.
 
 ---
 
